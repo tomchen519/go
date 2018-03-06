@@ -8,6 +8,8 @@ import (
 	"strings"
 )
 
+// NEW COMMENTS
+
 // Celsius type float
 type Celsius float64
 
