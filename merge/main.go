@@ -3,6 +3,6 @@ package main
 import "fmt"
 
 func main() {
-	// Develop branch
-	fmt.Println("Bye")
+	// Testing branch
+	fmt.Println("Bye Now")
 }
